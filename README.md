@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**adamthede/adamthede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently VP of Engineering at Possip, scaling our platform and team. My journey into tech started after a chapter on Wall Street!
+- 🌱 I'm diving deep into AI tools (like Gemini, Claude, Cursor) and applying them to personal data analysis projects. Always guided by first-principles thinking.
+- 🤔 I'm looking for help with any and all new tools and technologies
+- 💬 Ask me about: Engineering Leadership, Quantified Self, Lifelogging, Personal Archiving, or applying AI to interesting datasets
+- ⚡ Fun fact: ... you can read more about me on my personal site: [officeofadamthede.com](https://officeofadamthede.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adamthede&theme=dark" alt="GitHub Streak"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=adamthede&theme=dark&show_icons=true&show=reviews&rank_icon=github" alt="Adam's GitHub stats"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamthede&layout=donut" alt="Top Langs"></a>
+</p>
