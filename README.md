@@ -10,8 +10,5 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adamthede&theme=dark" alt="GitHub Streak"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-adam-thedes-projects.vercel.app/api?username=adamthede&theme=dark&show_icons=true&show=reviews&include_orgs=true" alt="Adam's GitHub stats"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-adam-thedes-projects.vercel.app/api/top-langs/?username=adamthede&layout=donut&include_orgs=true" alt="Top Langs"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-adam-thedes-projects.vercel.app/api?username=adamthede&theme=dark&show_icons=true&show=reviews&include_orgs=true&rank_icon=github" alt="Adam's GitHub stats"></a>
 </p>
