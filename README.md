@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [adamthede/adafruit-clue-dashboard](https://github.com/adamthede/adafruit-clue-dashboard)
+1. 💪 Opened PR [#3](undefined) in [sobri909/LocoKit2](https://github.com/sobri909/LocoKit2)
 <!--END_SECTION:activity-->
 
 <p align="center">
