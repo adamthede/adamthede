@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](undefined) in [sobri909/LocoKit2](https://github.com/sobri909/LocoKit2)
+1. 🗣 Commented on [#3](https://github.com/sobri909/LocoKit2/pull/3#issuecomment-3632228631) in [sobri909/LocoKit2](https://github.com/sobri909/LocoKit2)
 <!--END_SECTION:activity-->
 
 <p align="center">
