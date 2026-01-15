@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/adamthede/whisperkit-transcriber/pull/1) in [adamthede/whisperkit-transcriber](https://github.com/adamthede/whisperkit-transcriber)
+1. 🎉 Merged PR [#1](https://github.com/adamthede/whisperkit-transcriber/pull/1) in [adamthede/whisperkit-transcriber](https://github.com/adamthede/whisperkit-transcriber)
 <!--END_SECTION:activity-->
 
 <p align="center">
