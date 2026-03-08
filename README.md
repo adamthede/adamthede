@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adamthede/whisperkit-transcriber/pull/1) in [adamthede/whisperkit-transcriber](https://github.com/adamthede/whisperkit-transcriber)
+1. ❗ Opened issue [#47](https://github.com/adamthede/nss-family-digest/issues/47) in [adamthede/nss-family-digest](https://github.com/adamthede/nss-family-digest)
 <!--END_SECTION:activity-->
 
 <p align="center">
