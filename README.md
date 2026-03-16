@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#47](https://github.com/adamthede/nss-family-digest/issues/47) in [adamthede/nss-family-digest](https://github.com/adamthede/nss-family-digest)
+1. 🗣 Commented on [#1](https://github.com/adamthede/adafruit-clue-dashboard/pull/1#issuecomment-4069606767) in [adamthede/adafruit-clue-dashboard](https://github.com/adamthede/adafruit-clue-dashboard)
 <!--END_SECTION:activity-->
 
 <p align="center">
