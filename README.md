@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/adamthede/adafruit-clue-dashboard/pull/1#issuecomment-4069606767) in [adamthede/adafruit-clue-dashboard](https://github.com/adamthede/adafruit-clue-dashboard)
+1. ❗ Opened issue [#2849](https://github.com/manaflow-ai/cmux/issues/2849) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 <!--END_SECTION:activity-->
 
 <p align="center">
