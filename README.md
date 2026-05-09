@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/adamthede/nss-family-digest/pull/53) in [adamthede/nss-family-digest](https://github.com/adamthede/nss-family-digest)
+1. 💪 Opened PR [#57](https://github.com/adamthede/nss-family-digest/pull/57) in [adamthede/nss-family-digest](https://github.com/adamthede/nss-family-digest)
 <!--END_SECTION:activity-->
 
 <p align="center">
