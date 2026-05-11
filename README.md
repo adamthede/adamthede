@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/adamthede/nss-family-digest/pull/59#issuecomment-4417132581) in [adamthede/nss-family-digest](https://github.com/adamthede/nss-family-digest)
+1. 🗣 Commented on [#2849](https://github.com/manaflow-ai/cmux/issues/2849#issuecomment-4254749655) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 <!--END_SECTION:activity-->
 
 <p align="center">
