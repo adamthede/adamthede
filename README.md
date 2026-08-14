@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/adamthede/project-instapaper-archive/pull/2#issuecomment-5260776846) in [adamthede/project-instapaper-archive](https://github.com/adamthede/project-instapaper-archive)
+1. 🗣 Commented on [#26](https://github.com/adamthede/slideshow-gen/pull/26#issuecomment-5287546256) in [adamthede/slideshow-gen](https://github.com/adamthede/slideshow-gen)
 <!--END_SECTION:activity-->
 
 <p align="center">
