@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/adamthede/adamthede.com/pull/2) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
+1. 🗣 Commented on [#31](https://github.com/adamthede/project-instapaper-archive/pull/31#issuecomment-5823596854) in [adamthede/project-instapaper-archive](https://github.com/adamthede/project-instapaper-archive)
 <!--END_SECTION:activity-->
 
 <p align="center">
