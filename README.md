@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/adamthede/adamthede.com/pull/5#issuecomment-6563235983) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
+1. 🗣 Commented on [#5](https://github.com/adamthede/adamthede.com/pull/5#issuecomment-6565864252) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
 <!--END_SECTION:activity-->
 
 <p align="center">
