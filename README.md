@@ -1,12 +1,10 @@
-## Hi there 👋
+I'm a product person who builds with AI agents, at Possip by day, and evenings and weekends on my own apps for capturing, enriching and synthesizing a life.
 
-- 🔭 I'm currently VP of Engineering at Possip, scaling our platform and team. My journey into tech started after a chapter on Wall Street!
-- 🌱 I'm diving deep into AI tools (like Gemini, Claude, Cursor) and applying them to personal data analysis projects. Always guided by first-principles thinking.
-- 🤔 I'm looking for help with any and all new tools and technologies
-- 💬 Ask me about: Engineering Leadership, Quantified Self, Lifelogging, Personal Archiving, or applying AI to interesting datasets
-- ⚡ Fun fact: ... you can read more about me on my personal site: [officeofadamthede.com](https://officeofadamthede.com)
+Those apps sit under [Thede Technologies](https://thedetech.com), the company I started to back them. The flagship is [Tractor and Silo](https://tractorandsilo.com), a lifelogging platform on the web and iPhone that I've been building since 2016. Everything else starts at [adamthede.com](https://adamthede.com), including my [résumé](https://adamthede.com/resume/).
 
-### :zap: Recent Activity
+Ask me about Quantified Self, lifelogging, personal archiving or putting AI to work on my own data. My day job is VP of Engineering at Possip, so engineering leadership is fair game too.
+
+### Recent activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/adamthede/adamthede.com/pull/6) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
