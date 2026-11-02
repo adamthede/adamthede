@@ -9,7 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/adamthede/adamthede.com/pull/9) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
+1. 🗣 Commented on [#8](https://github.com/adamthede/adamthede.com/pull/8#issuecomment-6588646812) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
 <!--END_SECTION:activity-->
 
 <p align="center">
