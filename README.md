@@ -18,7 +18,3 @@ Ask me about Quantified Self, lifelogging, personal archiving or putting AI to w
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/adamthede/adamthede.com/pull/8#issuecomment-6588541304) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
 <!--END_SECTION:activity-->
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adamthede&theme=dark" alt="GitHub Streak"></a>
-</p>
