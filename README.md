@@ -5,7 +5,7 @@ Ask me about Quantified Self, lifelogging, personal archiving or putting AI to w
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/adamthede/adamthede.com/pull/8#issuecomment-6588541304) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
+1. 💪 Opened PR [#2](https://github.com/adamthede/adamthede/pull/2) in [adamthede/adamthede](https://github.com/adamthede/adamthede)
 <!--END_SECTION:activity-->
 
 <p align="center">
