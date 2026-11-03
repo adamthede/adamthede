@@ -6,7 +6,7 @@ My own apps sit under [Thede Technologies](https://thedetech.com), my one-person
 - [Answers to Answers](https://apps.apple.com/us/app/answers-to-answers/id6791344203), an iPhone app that sends a family one question a week and reveals every answer at once, on the App Store since September 2026.
 - [Lens](https://thedetech.com/lens/), a Mac app in public beta that keeps a record of the working day and writes it up on the Mac itself, started in 2026.
 - [data.adamthede.com](https://data.adamthede.com/), seven records of my life on one axis of years, kept since 1995.
-- [A Reading Life](https://data.adamthede.com/books/), books finished since 1999, and [A Viewing Life](https://data.adamthede.com/viewing/), screenings since 1995.
+- [The Reading Life](https://data.adamthede.com/books/), books finished since 1999, and [A Viewing Life](https://data.adamthede.com/viewing/), screenings since 1995.
 - [slideshow-gen](https://github.com/adamthede/slideshow-gen), the source of [Marquee](https://thedetech.com/marquee/), a slideshow generator that pans and zooms across photos and overlays each one's date and place from its EXIF, started in 2026.
 - [Article Archive](https://github.com/adamthede/project-instapaper-archive), Python scripts that export a whole Instapaper archive to Markdown for Obsidian, started in 2025.
 
