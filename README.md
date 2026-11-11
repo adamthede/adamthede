@@ -15,5 +15,5 @@ Ask me about Quantified Self, lifelogging, personal archiving or putting AI to w
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/adamthede/adamthede.com/pull/12) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
+1. 🎉 Merged PR [#12](https://github.com/adamthede/adamthede.com/pull/12) in [adamthede/adamthede.com](https://github.com/adamthede/adamthede.com)
 <!--END_SECTION:activity-->
